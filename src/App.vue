@@ -24,7 +24,7 @@
     </header>
 
     <body>
-        <div class="Institutes">
+        <!-- <div class="Institutes">
             <div class="textInst">
                 <div style="margin-top: 15px; margin-left: 10px; margin-bottom: 30px;">Институт Информационных Технологий и
                     Анализа Данных</div>
@@ -32,7 +32,8 @@
                 <div class="specText"><strong>Должности:</strong>Инженер-программист, Тестировщик,
                     Front-end разработчик </div>
             </div>
-        </div>
+        </div> -->
+        <img src="https://img.freepik.com/free-vector/coming-soon-design_1132-70.jpg?size=626&ext=jpg&ga=GA1.1.1585522925.1699260353&semt=ais" style="height: 100%; width: 100%;" >
 
     </body>
 </template>
