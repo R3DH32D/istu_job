@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    width: 100%;
+    min-width: auto;
+    background-color: rgb(245, 245, 245);
+    display: block;
+    box-sizing: content-box;
+
+
+}
+
+
+
+.Header {
+    padding: 8px;
+    width: 100%;
+    font-size: 22px;
+    background-color: #ffffff;
+    border-color: transparent;
+    border-style: solid;
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+
+
+}
+
+.icons {
+
+    float: right;
+    margin-top: 0.5%;
+
+
+}
+
+
+.name {
+    font-family: 'TildaSans', Arial, sans-serif;
+
+    float: left;
+}
+
+.searcher {
+    text-align: center;
+}
+
+.Institutes {
+    border-radius: 35px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 400px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-image: url('src/proc.png');
+    background-position: left;
+
+    border-color: transparent;
+}
+
+.textInst {
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    float: right;
+    font-size: 20px;
+    box-sizing: border-box;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+
+}
+
+.specText {
+    font-size: 12px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    height: 50px;
+    float: left;
+    width: 50px;
+    margin-right: 3px;
+}
